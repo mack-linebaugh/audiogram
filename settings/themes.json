@@ -15,7 +15,17 @@
     "captionLeft": 200,
     "captionRight": 1080
   },
-  "We Live Here": {
+  "News": {
+      "backgroundImage": "wlh-background.png",
+      "pattern": "roundBars",
+      "foregroundColor": "#efefef"
+      "captionAlign": "left",
+      "captionLeft": 60,
+      "captionRight": 950,
+      "captionBottom": 660,
+      "captionTop": null,
+  },
+    "We Live Here": {
       "backgroundImage": "wlh-background.png",
       "pattern": "roundBars",
       "captionColor": "#333",
