@@ -21,7 +21,7 @@
       "foregroundColor": "#fff",
       "waveTop": 100,
       "waveBottom": 370,
-      "captionFont": "300 52px 'Titillium Light'",
+      "captionFont": "52px 'Titillium Light'",
       "captionAlign": "left",
       "captionLeft": 60,
       "captionRight": 640,
