@@ -18,9 +18,10 @@
   "News": {
       "backgroundImage": "stlpr-red.png",
       "pattern": "roundBars",
-      "foregroundColor": "#efefef",
+      "foregroundColor": "#fff",
       "waveTop": 100,
       "waveBottom": 370,
+      "captionFont": "300 52px 'Titillium Light'",
       "captionAlign": "left",
       "captionLeft": 60,
       "captionRight": 640,
