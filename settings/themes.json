@@ -18,7 +18,7 @@
   "News": {
       "backgroundImage": "wlh-background.png",
       "pattern": "roundBars",
-      "foregroundColor": "#efefef"
+      "foregroundColor": "#efefef",
       "captionAlign": "left",
       "captionLeft": 60,
       "captionRight": 950,
