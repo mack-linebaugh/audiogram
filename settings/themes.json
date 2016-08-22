@@ -28,19 +28,8 @@
       "captionBottom": 660,
       "captionTop": null
   },
-    "We Live Here": {
-      "backgroundImage": "wlh-background.png",
-      "pattern": "roundBars",
-      "captionColor": "#333",
-      "captionAlign": "left",
-      "captionLeft": 60,
-      "captionRight": 950,
-      "captionBottom": 660,
-      "captionTop": null,
-      "waveColor": "#67bfce"
-  },
-  "We Live Here 2": {
-      "backgroundImage": "wlh-background-2.png",
+  "We Live Here": {
+      "backgroundImage": "wlh-background-3.png",
       "pattern": "roundBars",
       "captionColor": "#333",
       "captionAlign": "left",
