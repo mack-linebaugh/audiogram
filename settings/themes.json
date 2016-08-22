@@ -16,7 +16,7 @@
     "captionRight": 1080
   },
   "News": {
-      "backgroundImage": "stlpr-red.png",
+      "backgroundImage": "stlpr-red-2.png",
       "pattern": "roundBars",
       "foregroundColor": "#fff",
       "waveTop": 100,
